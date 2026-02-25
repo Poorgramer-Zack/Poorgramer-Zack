@@ -1,48 +1,60 @@
-<h1 align="center">Hi there, I'm Aykahshi (Zack) 👋</h1>
+<h1 align="center">Hi there, I'm Poorgramer-Zack 👋</h1>
 <p align="center">
-  <b>Senior Software Engineer | Building Efficient & Immersive Digital Experiences</b>
+  <b>Flutter-Focused Engineer | Architecture • AI-Augmented Development • System Thinking</b>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aykahshi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Poorgramer-Zack&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I am a Senior Software Engineer specializing in **Flutter** application development and modern full-stack technologies.
-Beyond a solid technical foundation, I excel in **AI-Driven Development**. By deeply integrating advanced AI tools like **Claude Code**, **GitHub Copilot**, and **Antigravity**, I significantly boost development efficiency, delivering high-quality, maintainable code in record time.
+Flutter-focused engineer specializing in architecture design, modularization, and scalable cross-platform applications.
 
-### 🚀 Current Focus Projects
+I led the migration of enterprise applications (React Native → Flutter), implemented Clean Architecture, and integrated complex systems such as SAP Hybris and HarmonyOS.
 
-Currently dedicated to developing and optimizing the following projects, exploring the deep integration of AI Agents with the development ecosystem:
+Beyond application development, I practice **AI-Augmented Engineering** — systematically integrating AI tools into real-world workflows. I design structured prompting systems, enforce architectural consistency, and build internal tooling (e.g., OpenCode Plugin) to enhance code quality and long-term maintainability.
 
-- **[Omo Switch](https://github.com/Aykahshi/omo-switch)**  
-  A lightweight tool that simplifies switching between different oh-my-opencode configurations with ease.
+I believe great engineering is built on strong architecture, disciplined execution, and intelligent tooling.
 
-- **[Flutter Agent Panel](https://github.com/Aykahshi/flutter-agent-panel)**  
-  A modern, cross-platform terminal aggregator designed for the AI era. It unifies professional terminal emulation with seamless AI Agent integration (e.g., Claude Code, GitHub Copilot CLI), creating a cohesive workspace for developers.
+---
 
-- **[Copilot MCP Tool](https://github.com/Aykahshi/copilot-mcp-tool)**  
-  An actively maintained Model Context Protocol (MCP) server that bridges GitHub Copilot CLI with MCP clients. It empowers AI assistants with interactive tools, session management, and dedicated plugins for enhanced context awareness.
+### 🚀 Current Focus
 
-### 🛠️ Technologies & Tools
+Exploring the intersection of AI Agents, developer tooling, and modern engineering workflows.
 
-Possessing a broad technical horizon, capable of selecting the most appropriate tools based on business needs:
+- **[Omo Switch](https://github.com/Poorgramer-Zack/omo-switch)**  
+  Lightweight configuration switcher for oh-my-opencode environments.
 
-- **Core**: Flutter, Dart, Python, TypeScript
-- **Frontend Frameworks**: Vue.js, Angular, React
-- **Backend & Database**: PostgreSQL, Node.js
-- **AI & Efficiency**: Claude Code, Copilot, Antigravity, Zed
+- **[Flutter Agent Panel](https://github.com/Poorgramer-Zack/flutter-agent-panel)**  
+  Cross-platform AI-era terminal aggregator integrating Claude Code, Copilot CLI, and other agents into a unified workspace.
 
-### 🎮 Legacy Side Projects
+- **[Copilot MCP Tool](https://github.com/Poorgramer-Zack/copilot-mcp-tool)**  
+  Model Context Protocol (MCP) server bridging Copilot CLI with external clients, enabling structured tool interaction and contextual AI workflows.
 
-- **[Auto Nueip](https://github.com/Aykahshi/auto_nueip_revamp)**: An unofficial mobile client for the NUEIP HR system. It serves as a comprehensive **real-world implementation of Joker State**, featuring Clean Architecture, GPS check-ins, and local notifications.
+---
 
-- **[Joker State](https://github.com/Aykahshi/joker_state)**: A lightweight Flutter state management solution I created, focused on minimalist architecture. It powers application like *Auto Nueip* to demonstrate its practical capability.
+### 🛠️ Tech Stack
+
+- **Mobile & Core**: Flutter, Dart
+- **Frontend**: Angular, Next.js, Vue
+- **Backend**: Python (FastAPI), Node.js
+- **Architecture**: Clean Architecture, Modularization, CI/CD
+- **AI Workflow**: Claude Code, GitHub Copilot, MCP, Custom Tooling
+
+---
+
+### 🧠 Engineering Philosophy
+
+- Design scalable systems, not just features  
+- Automate what can be standardized  
+- Use AI as a force multiplier, not a shortcut  
+
+---
 
 ### 📫 Connect
 
-- 💼 LinkedIn: [Zack Shi](https://www.linkedin.com/in/aykahshi)
-- 📧 Email: [pshakya8751@gmail.com](mailto:pshakya8751@gmail.com)
+- 💼 LinkedIn: [Zack Shi](https://www.linkedin.com/in/poorgramerZack)
+- 📧 Email: pshakya8751@gmail.com
