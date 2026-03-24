@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Poorgramer-Zack 👋</h1>
 <p align="center">
-  <b>Flutter-Focused Engineer | Architecture • AI-Augmented Development • System Thinking</b>
+  <b>Full-Stack Dart Engineer | Copilot CLI Ecosystem • Architecture • AI-Augmented Development</b>
 </p>
 
 <p align="center">
@@ -11,11 +11,11 @@
 
 ### 👨‍💻 About Me
 
-Flutter-focused engineer specializing in architecture design, modularization, and scalable cross-platform applications.
+Full-stack Dart engineer specializing in architecture design, modularization, and scalable applications across the Dart ecosystem.
 
-I led the migration of enterprise applications (React Native → Flutter), implemented Clean Architecture, and integrated complex systems such as SAP Hybris and HarmonyOS.
+I build and refine full-stack Dart workflows, from application architecture to developer tooling, with a strong focus on sustainable engineering practices and AI-assisted productivity.
 
-Beyond application development, I practice **AI-Augmented Engineering** — systematically integrating AI tools into real-world workflows. I design structured prompting systems, enforce architectural consistency, and build internal tooling (e.g., OpenCode Plugin) to enhance code quality and long-term maintainability.
+Beyond application development, I practice **AI-Augmented Engineering** — systematically integrating AI tools into real-world workflows. I design structured prompting systems, enforce architectural consistency, and build tooling around Copilot CLI and the Dart ecosystem to enhance code quality and long-term maintainability.
 
 I believe great engineering is built on strong architecture, disciplined execution, and intelligent tooling.
 
@@ -25,22 +25,22 @@ I believe great engineering is built on strong architecture, disciplined executi
 
 Exploring the intersection of AI Agents, developer tooling, and modern engineering workflows.
 
-- **[Omo Switch](https://github.com/Poorgramer-Zack/omo-switch)**  
-  Lightweight configuration switcher for oh-my-opencode environments.
+- **[everything-dart](https://github.com/Poorgramer-Zack/everything-dart)**  
+  A focused hub for exploring, organizing, and advancing full-stack Dart ecosystem practices.
 
 - **[Flutter Agent Panel](https://github.com/Poorgramer-Zack/flutter-agent-panel)**  
   Cross-platform AI-era terminal aggregator integrating Claude Code, Copilot CLI, and other agents into a unified workspace.
 
-- **[Copilot MCP Tool](https://github.com/Poorgramer-Zack/copilot-mcp-tool)**  
-  Model Context Protocol (MCP) server bridging Copilot CLI with external clients, enabling structured tool interaction and contextual AI workflows.
+- **[copilot-cli-things](https://github.com/Poorgramer-Zack/copilot-cli-things)**  
+  Experiments, integrations, and workflow ideas centered on the Copilot CLI ecosystem.
 
 ---
 
 ### 🛠️ Tech Stack
 
 - **Mobile & Core**: Flutter, Dart
-- **Frontend**: Angular, Next.js, Vue
-- **Backend**: Python (FastAPI), Node.js
+- **Frontend**: Next.js, Vue
+- **Backend**: Dart, Python (FastAPI), Node.js
 - **Architecture**: Clean Architecture, Modularization, CI/CD
 - **AI Workflow**: Claude Code, GitHub Copilot, MCP, Custom Tooling
 
