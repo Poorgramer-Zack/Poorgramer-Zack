@@ -25,9 +25,6 @@ I believe great engineering is built on strong architecture, disciplined executi
 
 Exploring the intersection of AI Agents, developer tooling, and modern engineering workflows.
 
-- **[everything-dart](https://github.com/Poorgramer-Zack/everything-dart)**  
-  A focused hub for exploring, organizing, and advancing full-stack Dart ecosystem practices.
-
 - **[Flutter Agent Panel](https://github.com/Poorgramer-Zack/flutter-agent-panel)**  
   Cross-platform AI-era terminal aggregator integrating Claude Code, Copilot CLI, and other agents into a unified workspace.
 
