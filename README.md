@@ -53,4 +53,4 @@ Agentic Workflows, AI Workflow Orchestration, Developer Tooling, Terminal Workfl
 ## 📫 Connect
 
 - 💼 LinkedIn: [Zack Shi](https://www.linkedin.com/in/poorgramerZack)
-- 📧 Email: pshakya8751@gmail.com
+- 📧 Email: [pshakya8751@gmail.com](mailto:pshakya8751@gmail.com)
