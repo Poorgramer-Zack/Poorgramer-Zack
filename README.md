@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi, I'm Zack 👋</h1>
 
 <p align="center">
@@ -22,6 +26,9 @@ Currently exploring AI-native engineering workflows, agent orchestration, termin
 Cross-platform AI-native workflow tool integrating terminal systems and AI agents across Windows, macOS, and Linux.
 
 Focused on developer productivity, workflow orchestration, and AI-native tooling experiences.
+
+### [dart-expert-skills](https://github.com/Poorgramer-Zack/dart-expert-skills)
+Expert Dart skills that equip AI agents with deeper, more reliable knowledge of the Dart ecosystem.
 
 ---
 
