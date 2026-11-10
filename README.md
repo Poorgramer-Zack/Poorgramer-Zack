@@ -5,18 +5,18 @@
 <h1 align="center">Hi, I'm Zack 👋</h1>
 
 <p align="center">
-  <b>Full Stack Engineer • AI-Native Engineering • Developer Tooling</b>
+  <b>Flutter / Frontend Engineer • AI-Native Engineering • Developer Tooling</b>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Full Stack Engineer focused on scalable web and cross-platform applications using Flutter, Angular, Next.js, Node.js, and FastAPI.
+Flutter / Frontend Engineer focused on scalable cross-platform and web applications using Flutter, Dart, Angular, and Next.js.
 
-Experienced in enterprise-scale commerce systems, frontend architecture, Flutter migration projects, and developer productivity tooling. I enjoy building maintainable systems, improving engineering workflows, and designing scalable application architectures.
+Experienced in enterprise-scale commerce systems, frontend architecture, Flutter migration projects, and developer productivity tooling. I enjoy building maintainable systems and designing architectures and conventions that let AI agents produce consistent, high-quality code.
 
-Currently exploring AI-native engineering workflows, agent orchestration, terminal-based tooling, and developer productivity systems.
+I pursue AI-native development: treating AI agents as first-class collaborators across the whole development lifecycle, and exploring agent orchestration, agent skills, and terminal-based tooling.
 
 ---
 
@@ -38,13 +38,13 @@ Expert Dart skills that equip AI agents with deeper, more reliable knowledge of 
 Flutter, Dart, Angular, Next.js, Vue
 
 ### Backend
-Node.js, FastAPI, PostgreSQL
+Serverpod, FastAPI
 
 ### Architecture & DevOps
 Clean Architecture, CI/CD, Modularization, Docker
 
 ### AI-Native Engineering
-Agentic Workflows, AI Workflow Orchestration, Developer Tooling, Terminal Workflows
+Agentic Workflows, Agent  Orchestration, Developer Tools, Agent Skills
 
 ---
 
